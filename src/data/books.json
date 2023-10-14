@@ -1,0 +1,68 @@
+{
+  "books": [
+    {
+      "bookId": "9781593275846",
+      "title": "Eloquent JavaScript, Second Edition",
+      "author": "Marijn Haverbeke",
+      "published": "2014-12-14",
+      "publisher": "No Starch Press",
+      "pages": 472
+    },
+    {
+      "bookId": "9781449331818",
+      "title": "Learning JavaScript Design Patterns",
+      "author": "Addy Osmani",
+      "published": "2012-07-01",
+      "publisher": "O'Reilly Media",
+      "pages": 254
+    },
+    {
+      "bookId": "9781449365035",
+      "title": "Speaking JavaScript",
+      "author": "Axel Rauschmayer",
+      "published": "2014-02-01",
+      "publisher": "O'Reilly Media",
+      "pages": 460
+    },
+    {
+      "bookId": "9781491950296",
+      "title": "Programming JavaScript Applications",
+      "author": "Eric Elliott",
+      "published": "2014-07-01",
+      "publisher": "O'Reilly Media",
+      "pages": 254
+    },
+    {
+      "bookId": "9781593277574",
+      "title": "Understanding ECMAScript 6",
+      "author": "Nicholas C. Zakas",
+      "published": "2016-09-03",
+      "publisher": "No Starch Press",
+      "pages": 352
+    },
+    {
+      "bookId": "9781491904244",
+      "title": "You Don't Know JS",
+      "author": "Kyle Simpson",
+      "published": "2015-12-27",
+      "publisher": "O'Reilly Media",
+      "pages": 278
+    },
+    {
+      "bookId": "9781449325862",
+      "title": "Git Pocket Guide",
+      "author": "Richard E. Silverman",
+      "published": "2013-08-02",
+      "publisher": "O'Reilly Media",
+      "pages": 234
+    },
+    {
+      "bookId": "9781449337711",
+      "title": "Designing Evolvable Web APIs with ASP.NET",
+      "author": "Glenn Block, et al.",
+      "published": "2014-04-07",
+      "publisher": "O'Reilly Media",
+      "pages": 538
+    }
+  ]
+}
